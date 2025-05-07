@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("вы были забанены за использование стороннего ПО")
+game.Players.LocalPlayer:Kick("You were kicked from this experience: You have been permanently banned. reason: cheats")
