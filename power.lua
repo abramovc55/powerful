@@ -28,7 +28,7 @@ TopBar.Parent = Frame
 
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, 0, 1, 0)
-Title.Text = "Webhook от игрока"
+Title.Text = "Trezub hub"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.BackgroundTransparency = 1
 Title.Font = Enum.Font.GothamBold
